@@ -74,7 +74,15 @@ Once the Flutter application is running, follow these steps to use the app:
 
 2. General Info Tab: Tap on the "General Info" tab to view general information about each attraction. Each item displays a title, address, and an image representing the attraction.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexisRodriguezCS/Sights/master/assets/images/general.PNG" alt="Grid" style="display:block;margin:auto;" height="500">
+</p>
+
 3. Reviews Tab: Switch to the "Reviews" tab to read reviews about the attractions. Each review includes a title, description, and like/dislike functionality. You can tap on the thumbs-up and thumbs-down icons to increment the like and dislike counts, respectively.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlexisRodriguezCS/Sights/master/assets/images/reviews.PNG" alt="Grid" style="display:block;margin:auto;" height="500">
+</p>
 
 Enjoy exploring Chicago's attractions through this Flutter app!
 
