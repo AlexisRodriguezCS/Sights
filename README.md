@@ -76,8 +76,6 @@ Once the Flutter application is running, follow these steps to use the app:
 
 3. Reviews Tab: Switch to the "Reviews" tab to read reviews about the attractions. Each review includes a title, description, and like/dislike functionality. You can tap on the thumbs-up and thumbs-down icons to increment the like and dislike counts, respectively.
 
-4. Scroll and Interact: Scroll through the list of attractions and reviews by swiping up or down. Tap on an attraction or review to view more details or perform additional actions.
-
 Enjoy exploring Chicago's attractions through this Flutter app!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
